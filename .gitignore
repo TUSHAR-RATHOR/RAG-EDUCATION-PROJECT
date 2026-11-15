@@ -1,0 +1,23 @@
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# API keys
+.env
+.env.*
+!.env.example
+
+# Vector database
+chroma_db/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
